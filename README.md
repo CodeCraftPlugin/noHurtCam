@@ -1,9 +1,9 @@
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+# Fabric Example Mod
 
+## Setup
 
-# NOTICE
-**Developement of this mod has stopped. I neither have time to work on this mod and nor do I have the motivation to work with Java anymore. Feel free to fork this, it's now abandoned. It's been a great time.**
+For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
 
-# NoHurtCam
+## License
 
-Allows you to toggle the hurtcam via the press of a keybind
+This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.

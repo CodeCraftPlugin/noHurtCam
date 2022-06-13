@@ -5,7 +5,8 @@
   "name": "NoHurtCam",
   "description": "Removes the damage Screenshake",
   "authors": [
-    "UltraBlackLinux"
+    "UltraBlackLinux",
+    "CodeCraft"
   ],
   "contact": {
     "homepage": "https://github.com/UltraBlackLinux/noHurtCam",
@@ -23,7 +24,7 @@
     "noHurtCam.mixins.json"
   ],
   "depends": {
-    "fabricloader": ">=0.11.3",
+    "fabricloader": ">=0.14.7",
     "fabric": "*",
     "minecraft": "*"
   }
